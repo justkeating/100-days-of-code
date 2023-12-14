@@ -1,0 +1,50 @@
+Company	Paddle	Core Thickness (mm)	Condition	Price	Shape	Manufacturing Process	Surface Texture	Surface Material	Core Material	Spin RPM	Spin Percentile	Length (in)	Width (in)	Handle Length (in)	Static Weight (oz)	Swing Weight	Swing Weight Percentile	Twist Weight	Twist Weight Percentile	Balance Point (cm)	Balance Point Percentile	Serve Speed-MPH (Power)	Power Percentile	Punch Volley Speed-MPH (Pop)	Pop Percentile	Surface Hardness (Shore D)
+Bird	Ball Hawk Classic	14	New	199.0	Standard	Cold Layered	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,099	73%	16	8	4.75	7.9	106	11%	7.05	93%	23.5	27%	51.3	4%	32.4	9%	89
+Bread & Butter	Filth	16	New	165.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	1,865	40%	16.5	7.4	5.5	7.9	121	72%	6.2	52%	24.2	65%	55.2	71%	35.6	82%	88.7
+Bread & Butter	Loco	16	New	165.0	Hybrid	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,091	71%	16.3	7.7	5.3	7.7	114	39%	6.1	43%	24.1	60%	54.6	51%	35.2	78%	91.3
+Cheetah	Predion E16 Edgeless	16	New	200.0	Elongated	Thermoformed	Grit	3K Woven Carbon Fiber	Aramid Fiber Honeycomb	1,556	19%	16.5	7.5	5.5	7.7	106	11%	5.37	13%	23.3	24%	52.8	22%	34.3	38%	89.5
+Cheetah	Predion E16-with lead tape	16	New	200.0	Elongated	Thermoformed	Grit	3K Woven Carbon Fiber	Aramid Fiber Honeycomb	1,556	19%	16.5	7.5	5.5	8.4	115	47%	7.23	95%	23.5	27%	54.1	41%	34.3	38%	89.5
+CRBN 1	CRBN1 Control	14	New	179.99	Elongated	Cold Layered	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,171	81%	16.5	7.3	5.5	7.9											
+CRBN 1	CRBN1 Control (USAP-Banned 2021)	14	New	179.99	Elongated	Cold Layered	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	1,943	50%	16.5	7.3	5.5	7.9											
+Diadem	Icon V2 XL	13.7	New	199.95	Standard	Hot Molded	Grit	Carbon Fiber (Japanese-Sourced)	Polypropylene Honeycomb (2 sheets)	1,718	22%	16	7.6	5.25	8.2	125	88%	5.69	16%	24.5	78%	54.2	43%	35	66%	85.8
+Electrum	Model E Elite	16	New	199.99	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	2,028	59%	16.5	7.4	5.25	8.4	124	86%	7.14	94%	24.7	89%	55.7	87%	35.7	86%	87.7
+Gearbox	CX11E Power	14	Used-3 months	199.99	Elongated	Unibody Edgeless	Grit	3K Woven Carbon Fiber	Toray T700 Carbon Fiber	1,480	16%	16.6	8	5.38	7.8	98	4%	4.69	1%			47.8	0%	31.5	4%	
+Gearbox	CX14E	14	Used-1 month	199.99	Elongated	Unibody Edgeless	Grit	3K Woven Carbon Fiber	Toray T700 Carbon Fiber	1,523	17%	16.6	7.4	5.38	8	101	6%	4.32	0%							
+GRÜVN	MÜVN-13S	13	New	179.0	Standard	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	1,846	34%	15.7	8.1	5.3	7.9	101	6%	6.35	61%	22.5	5%	54.8	60%	36.4	94%	93.8
+GRÜVN	MÜVN-13X	13	New	179.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	1,975	53%	16.5	7.4	5.5	7.8	114	41%	5.93	34%	23.9	48%	55.4	77%	34.9	59%	92.7
+GRÜVN	MÜVN-16E	16	New	179.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	1,862	38%	16.5	7.4	4.75	8.3	118	63%	6.35	61%	23.8	41%	55	65%	34.9	59%	93.5
+GRÜVN	MÜVN-16S	16	New	179.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,002	56%	15.7	8.1	5.3	8	104	8%	6.8	82%	22.7	11%	54.3	45%	35	66%	92.8
+GRÜVN	MÜVN-16X	16	New	179.0	Elongated	Thermoformed	Peel Ply-Fine	T700 Carbon Fiber	Polypropylene Honeycomb	2,013	57%	16.5	7.4	5.5	8.2	117	56%	6.3	57%	23.7	34%	54.3	45%	34.2	34%	92.5
+GRYP	Balance 1 - 10g cap	15	New	200.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,107	74%	16.5	7.5	5.5	8.3	113	37%	6	38%	22.7	11%	54.9	61%	34.7	53%	93
+GRYP	Balance 1 - 25g cap	16	New	200.0	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,042	61%	16.5	7.5	5.5	8.8	114	40%	6	38%	21.5	1%	55.5	80%	34.9	59%	93
+Honolulu Pickleball Co.	Sword & Shield-J1	16	New	166.5	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	1,880	43%	16.5	7.5	5.75	8.8	128	94%	6.9	87%	24.1	60%	54.9	61%	34.3	38%	91.3
+Honolulu Pickleball Co.	Sword & Shield-J1H	16	New	166.5	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	2,032	60%	16.5	7.5	5.75	8.7	130	97%	6.8	82%	24	55%	56.9	93%	34.6	49%	92.3
+Honolulu Pickleball Co.	Sword & Shield-J5	16	New	166.5	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	2,067	66%	17	7	5.75	8.6	130	99%	6.15	46%	24.3	72%	55.7	87%	34.2	34%	92.2
+Joola	Hyperion CAS	16	Used-2 months	159.95	Elongated	Cold Layered	Grit	Fiberglass	Polypropylene Honeycomb	1,234	9%	16.5	7.5	5.5	8.3	125	88%	6.37	64%	24.5	78%					88.7
+Joola	Solaire	14	New	189.95	Standard	Hybrid	Peel Ply-Coarse	Carbon Fiber	Polypropylene Honeycomb	1,917	47%	16	8	5.5	8.4											
+Joola	Solaire	14	Used-1 month	189.95	Standard	Hybrid	Peel Ply-Coarse	Carbon Fiber	Polypropylene Honeycomb	1,774	27%	16	8	5.5	8.4											
+Legacy	Legacy Pro	16	New	150.0	Elongated	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	1,913	45%	16.5	7.5	5.3	8	121	72%	6.43	67%							
+PCKL	Pro 13	13	New	159.99	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	1,834	33%	16.3	7.5	5.5	8.1	120	68%	5.91	32%	23.2	20%	51.3	4%	32.3	8%	88.7
+PCKL	Pro 16	16	New	159.99	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	1,853	37%	16.3	7.5	5.5	7.8	121	72%	6.56	72%	23.8	41%	52.8	22%	32.1	6%	89.8
+Pickleball Apes	Pro Line Energy S	16.5	New	169.99	Elongated	Thermoformed	Peel Ply-Coarse	Kevlar & Carbon Fiber	Polypropylene Narrow-Cell Honeycomb	2,192	84%	16.4	7.6	5.5	8.1	118	63%	6.34	60%	24.2	65%	55.9	90%	35.6	82%	91
+ProDrive	Drive Carbon	19	New	199.0	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene + Kevlar	1,870	41%	16.4	7.6	5.3	8.6	130	98%	7.24	97%	24.5	78%	55.6	82%	33.4	15%	89.3
+ProDrive	Ghost	16	New	189.0	Elongated	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Kevlar	1,817	32%	16.4	7.6	5.3	8	117	57%	6.73	78%	23.9	48%	55.6	82%	35.1	72%	90.5
+Revolin	Revo Reach Control	16	New	189.0	Elongated	Cold Layered	Grit	Flax & Hemp	Polypropylene Honeycomb	1,056	2%	16.5	7.5	5.5	7.9											
+Ronbus	EV1.16	16	New	180.0	Elongated	Unibody Edgeless	Grit	Unknown	EVA Foam	1,148	5%	16.4	7.4	5.25	8.1	117	57%	5.94	36%	23.8	41%	58.8	96%	34.6	49%	79
+Ronbus	NOVA R1	16	New	180.0	Elongated	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	1,729	24%	16.5	7.5	5.5	7.7	115	47%	5.72	22%	24.5	78%	55.2	71%	34.8	56%	89.2
+Ronbus	NOVA R3	16	New	180.0	Elongated	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	1,732	25%	16.5	7.5	5.5	8.1	121	72%	6.1	43%	24.4	74%	55.4	77%	34.8	56%	89.8
+Ronbus	Pulsar R1	16	New	180.0	Elongated	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	1,915	46%	16.5	7.5	5.5	7.9	116	52%	6.21	54%	23.9	48%	54.7	54%	35.1	72%	89.7
+Ronbus	Pulsar R3	16	New	180.0	Elongated	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	1,970	52%	16.5	7.5	5.5	8.3	125	88%	6.47	68%	23.8	41%	54	39%	33.1	11%	89.2
+Ronbus	XPRO EV1.T700.R2	16	New	180.0	Elongated	Unibody Edgeless	Peel Ply-Fine	Toray Carbon Fiber	EVA Foam	2,280	95%	16.5	7.5	5.5	7.9	112	32%	5.7	17%	23.5	27%	59.7	100%		#N/A	82.8
+Ronbus	XPRO EV1.T700.R3	16	New	180.0	Elongated	Unibody Edgeless	Peel Ply-Fine	Toray Carbon Fiber	EVA Foam	2,210	89%	16.5	7.5	5.5	7.9	112	32%	5.7	17%	23.7	34%	59.6	99%		#N/A	82.8
+Selkirk	Epic Vanguard	16	New	200.0	Standard	Cold Layered	Grit	Carbon Fiber	Polypropylene Honeycomb	1,285	12%	15.8	8	5.25	7.9											
+Selkirk	Invikta Amped	16	Used-3 months	150.0	Elongated	Cold Layered	Grit	Fiberglass	Polypropylene Honeycomb	1,220	8%	16.5	7.4	5.25	7.3	109	22%									
+Six Zero	Double Black Diamond	14	New	180.0	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	2,077	67%	16.3	7.7	5.5	8.1	112	32%	6.33	59%	23.6	32%	53.7	36%	35.1	72%	88.5
+Six Zero	Double Black Diamond	16	New	180.0	Hybrid	Thermoformed	Peel Ply-Fine	Toray Carbon Fiber	Polypropylene Honeycomb	2,062	64%	16.3	7.7	5.5	8.1	114	41%	6.66	76%	23.9	48%	54.7	54%	33.5	20%	90.8
+Six Zero	Double Black Diamond (Early Batch)	16	New	180.0	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Carbon Fiber	Polypropylene Honeycomb	2,186	83%	16.3	7.7	5.5	8.1											
+Six Zero	Black Diamond Power	16	New	180.0	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Fiberglass	Polypropylene Honeycomb	2,217	90%	16.3	7.7	5.5	8	116	52%	6.76	80%	23.7	34%	55.3	75%	34.6	49%	88.2
+Six Zero	Black Diamond Power (Early Batch)	16	New	180.0	Hybrid	Thermoformed	Peel Ply-Coarse	Toray Fiberglass	Polypropylene Honeycomb	2,329	98%	16.3	7.7	5.5	8.1											88.2
+Volair	Mach 1 Forza	14	New	179.99	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,332	100%	16.5	7.5	5.5	7.8	111	29%	6.16	47%	23.9	48%	52.8	22%	35	66%	88.8
+Volair	Mach 1 Forza	16	New	179.99	Elongated	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,205	88%	16.5	7.5	5.5	8	115	47%	6.4	66%	24.1	60%	54.6	51%	35	66%	88.5
+Volair	Mach 2 Forza	14	New	179.99	Standard	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,236	92%	15.9	8.1	5.5	7.8	108	20%	6.8	82%	23.7	34%	54	39%	35.3	80%	90.8
+Volair	Mach 2 Forza	16	New	179.99	Standard	Thermoformed	Peel Ply-Coarse	T700 Carbon Fiber	Polypropylene Honeycomb	2,330	99%	15.9	8.1	5.5	8.1	113	38%	7.3	99%	23.8	41%	54.7	54%	34	28%	91.7
