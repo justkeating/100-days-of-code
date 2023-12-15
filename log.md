@@ -10,8 +10,8 @@
 
 ### Day 1: Dec 13, 2023
 
-**Today's Progress**: Figured out ssh keys for github local and pushing to repo. took a minute to set up but able to push and pull from repo.
+**Today's Progress**: Figured out ssh keys for github local and pushing to repo. Some random python beginner tutorials. webscrapper and qr code generator
+**Thoughts:** The setup for github and local is done. Looking at different python ideas that could be useful. took a minute to set up but able to push and pull from repo. Take input for github user for scraping profile images. Generate qr code with basic message/link.
 
-**Thoughts:** The setup for github and local is done. Looking at different python ideas that could be useful.
 
 **Link to work:** 
