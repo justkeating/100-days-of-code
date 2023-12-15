@@ -7,3 +7,11 @@
 **Thoughts:** Started with Reading/writing csv files with pyhthon using the paddle spreadsheet from john kew. Just broke down the paddles by price into 3 spread sheets. figuring the github keys to push to repo but was able to do some manipluation of data and some data cleaning bc of the $ sign in price.
 
 **Link to work:** 
+
+### Day 1: Dec 13, 2023
+
+**Today's Progress**: Figured out ssh keys for github local and pushing to repo. took a minute to set up but able to push and pull from repo.
+
+**Thoughts:** The setup for github and local is done. Looking at different python ideas that could be useful.
+
+**Link to work:** 
