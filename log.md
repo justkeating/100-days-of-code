@@ -15,3 +15,11 @@
 
 
 **Link to work:** 
+
+### Day 12: Dec 14, 2023
+
+**Today's Progress**: Setup python environment using pyenv. Started buidling a portfolio using Django.
+**Thoughts:** Difficult to decide what project to start with that can be beneficial. Chose this portofolio app after googling as it can use some backend and build an end to end app so I become full stack. Setup folder structure, routes, and able to get a page up and running on a server. Looking to add more in and involve pickleball or some sort of data analytics involving pickleball or something of interest.
+
+
+**Link to work:** 
