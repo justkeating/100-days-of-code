@@ -32,3 +32,12 @@
 
 
 **Link to work:** 
+
+### Day 4: Dec 17, 2023
+
+**Today's Progress**: Finished Django tutorial building portfolio app.
+
+**Thoughts:** Added admin side to change within browser. able to upload images from admin site and be persisted through dev environment. changed model to include the images and needed migration after include asset lib and path to it. Build models and views with images now. Done with tutorial. 
+
+
+**Link to work:** 
