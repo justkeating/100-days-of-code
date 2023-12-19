@@ -41,3 +41,12 @@
 
 
 **Link to work:** 
+
+### Day 5: Dec 19, 2023
+
+**Today's Progress**: Leet code quesitons
+
+**Thoughts:** Leet code questions
+
+
+**Link to work:** 
