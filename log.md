@@ -50,3 +50,12 @@
 
 
 **Link to work:** 
+
+### Day 6: Dec 20, 2023
+
+**Today's Progress**: SEO analyze tutorial
+
+**Thoughts:** Setting up python environment, using virutalenv and setting up python version manager via terminal. figured more about paths and where python is being pointed to. using homebrew and path not included. Trying to utilize some seo for job
+
+
+**Link to work:** 
